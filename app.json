@@ -34,11 +34,11 @@
         "UPDATES_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false,
-               "value":"-1001625277697"
+               "value":""
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789",
-               "value":"-1001788952875"
+               "value":""
         },
         "DOWN_PATH": {
             "description": "Files download path. You can keep default. Should not end with '/'",
@@ -47,11 +47,11 @@
         },
         "TIME_GAP": {
             "description": "Time Gap Between Process. Keep Default.",
-            "value": "5"
+            "value": ""
         },
         "MAX_VIDEOS": {
             "description": "Max Videos Allowed to Merge. Don't put more than 15.",
-            "value": "4"
+            "value": ""
         },
         "SESSION_NAME": {
             "description": "Any Session Name of Bot",
@@ -60,11 +60,11 @@
         },
         "STREAMTAPE_API_USERNAME": {
             "description": "Your Streamtape API Username for Uploading to Streamtape if File size is bigger than 2GB.",
-               "value":"5eb945e0fc5266091de2"
+               "value":""
         },
         "STREAMTAPE_API_PASS": {
             "description": "Your Streamtape API Password for Uploading to Streamtape if File size is bigger than 2GB.",
-               "value":"gLV2QdvKaRhqlrJ"
+               "value":""
         },
         "BROADCAST_AS_COPY": {
             "description": "Broadcast as Copy or with Forward Tag. Value should be True/False.",

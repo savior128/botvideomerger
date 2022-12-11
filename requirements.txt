@@ -1,5 +1,4 @@
 pyrogram==1.4.16
-python3.10
 TgCrypto
 hachoir
 Pillow

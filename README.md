@@ -21,6 +21,10 @@ Just Press Below Button to Deploy!
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
 
+Getting Started with Okteto and Python
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Hosseinsavior/VideoMerge-Bot)
+
 ### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=m4r_SHySGYo)
 

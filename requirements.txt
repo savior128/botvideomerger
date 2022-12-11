@@ -9,3 +9,4 @@ aiofiles
 psutil
 pyromod
 humanfriendly
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest

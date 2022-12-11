@@ -15,6 +15,7 @@ from PIL import Image
 from configs import Config
 from pyromod import listen
 from pyrogram import Client, filters
+from helpers import ffmpeg
 from helpers.markup_maker import MakeButtons
 from helpers.streamtape import UploadToStreamtape
 from helpers.clean import delete_all

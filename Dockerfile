@@ -1,6 +1,10 @@
-FROM python:3.8.2-slim-buster
+FROM python:3.8-slim-buster
+WORKDIR /app
+
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
 
 RUN apt -qq update && apt -qq install -y git ffmpeg
 COPY . .
-RUN pip3 install --no-cache-dir -r requirements.txt
-
+RUN python -m pip install --upgrade pip
+CMD python3 main.py
